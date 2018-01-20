@@ -50,7 +50,7 @@ public class ArgentumBean implements Serializable {
 
 	public void filtra() {
 		aplicaFiltro();
-		geaGrafico();
+		geraGrafico();
 	}
 
 	private void aplicaFiltro() {
